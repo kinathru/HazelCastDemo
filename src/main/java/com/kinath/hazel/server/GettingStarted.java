@@ -1,4 +1,4 @@
-package com.kinath.hazel;
+package com.kinath.hazel.server;
 
 import com.hazelcast.config.Config;
 import com.hazelcast.core.Hazelcast;
