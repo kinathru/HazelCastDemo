@@ -1,4 +1,4 @@
-package com.kinath.hazel.client;
+package com.kinath.hazel.gettingstarted.client;
 
 import com.hazelcast.client.config.ClientConfig;
 import com.hazelcast.client.HazelcastClient;
